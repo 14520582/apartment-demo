@@ -1,0 +1,67 @@
+{
+	"kinvey-nativescript-sdk": {
+		"D:\\Freelance\\chat-screen\\node_modules\\kinvey-nativescript-sdk\\platforms\\android\\include.gradle": "0c9edbafc8399836bf4cc29f1f8e77f29418db10"
+	},
+	"nativescript-background-http": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-background-http\\platforms\\android\\include.gradle": "4fc0f9ce06df5336df8da8c7b7a2ce2c43356a93",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-background-http\\platforms\\android\\nativescript_background_http.aar": "96ffe82bcff4a165f277840f78069b3081e73e0c"
+	},
+	"nativescript-camera": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-camera\\platforms\\android\\include.gradle": "3b224fc93af3e858d204fe68c65871f0d0587594",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-camera\\platforms\\android\\nativescript_camera.aar": "cd1b1fa3acf5d31146353f6127fdea77cc64df61"
+	},
+	"nativescript-fresco": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-fresco\\platforms\\android\\include.gradle": "3cfeac53b4490edf7bf3896db3f5024061dfdf01"
+	},
+	"nativescript-geolocation": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-geolocation\\platforms\\android\\include.gradle": "b4197a7b5556ea5de03f08097c27f72ec4d64c76",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-geolocation\\platforms\\android\\nativescript_geolocation.aar": "8d2a9d9e9492fb3a2321eb2343881330be4de2e3"
+	},
+	"nativescript-social-share": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-social-share\\platforms\\android\\AndroidManifest.xml": "ca6e2ceca22448641563fa6f6c773ef10b292e10",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-social-share\\platforms\\android\\res\\xml\\provider_paths.xml": "dbe562dfa44616ea40d88a3cbd74b3e8f44c54f3"
+	},
+	"nativescript-ui-autocomplete": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\include.gradle": "613e85a0ccf8d7b9801a9627a694d504e6202916",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\typings\\android-support-v7-recyclerview.d.ts": "9db815ece46c9cced20e90e945efe07e2bf990fe",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\typings\\autocomplete.d.ts": "74ad30ff203259a23ec7736f9dd986e64aa1e4a7",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\typings\\android-support-v4.d.ts": "18cd78c7ebbe1e63d938e03124694c84263f2857",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-autocomplete\\platforms\\android\\TNSAutoComplete-release.aar": "e7a9e07a4732882fe6813a914e46f49527837122"
+	},
+	"nativescript-ui-calendar": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-calendar\\platforms\\android\\typings\\calendar.d.ts": "5ec51f11eb91f74120953047716efdcffb3ca827",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-calendar\\platforms\\android\\TNSCalendar-release.aar": "033827da0395879495625e499c42b46def9963e4"
+	},
+	"nativescript-ui-chart": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-chart\\platforms\\android\\include.gradle": "a8fda5fc22ba305631bb875f9fc3d824d7d05585",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-chart\\platforms\\android\\typings\\android-support-v4.d.ts": "67f0e0121e29b88ff6211d5a2b0a422706a4febb",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-chart\\platforms\\android\\typings\\android-support-v7-recyclerview.d.ts": "9db815ece46c9cced20e90e945efe07e2bf990fe",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-chart\\platforms\\android\\typings\\chart.d.ts": "cb37eea2d5680496f460ccbd504ae351f21d3949",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-chart\\platforms\\android\\TNSChart-release.aar": "f490822aa502ad76f6bf115921bfc29fec94ed13"
+	},
+	"nativescript-ui-dataform": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-dataform\\platforms\\android\\typings\\dataform.d.ts": "c92377a22897d1fcfc915013da69e565d3039f7c",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-dataform\\platforms\\android\\TNSDataForm-release.aar": "80a2207040bc9234ddd145c8c47931bd20d0bba5"
+	},
+	"nativescript-ui-gauge": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-gauge\\platforms\\android\\TNSGauge-release.aar": "9c58589cd29bfb7deb869666ad27857cea887c71"
+	},
+	"nativescript-ui-listview": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\android-support-v4.d.ts": "6b814d9f70cf25fb43d967d9ae9b457fbea526fc",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-listview\\platforms\\android\\include.gradle": "6de828da977bf83e1e659e8c9b1c5a299a8e1d41",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\listview.d.ts": "6ab6e6ea0ac19aef1b55a8779d44f48a067c9954",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-listview\\platforms\\android\\typings\\android-support-v7-recyclerview.d.ts": "9db815ece46c9cced20e90e945efe07e2bf990fe",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-listview\\platforms\\android\\TNSListView-release.aar": "93e2164c9166cced6f4c8fd4167c523da321dd50"
+	},
+	"nativescript-ui-sidedrawer": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\typings\\sidedrawer.d.ts": "0f2a3e771108a347deabbf76e7a66491b6e6bfc1",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-sidedrawer\\platforms\\android\\TNSSideDrawer-release.aar": "014feca9bb77a2b9bb64edb4fdc8a0fbfab4abed"
+	},
+	"nativescript-ui-core": {
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-core\\platforms\\android\\typings\\core.d.ts": "57a0606617eef3c732c1a7f32480b1e166ad27ce",
+		"D:\\Freelance\\chat-screen\\node_modules\\nativescript-ui-core\\platforms\\android\\TNSCore-release.aar": "7e9c7f089e6c8aeea48b19e54e4bb1ff62b70eed"
+	},
+	"tns-core-modules-widgets": {
+		"D:\\Freelance\\chat-screen\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "7a062e96fe7b542638c6a6570de1531521a7307b"
+	}
+}
